@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hellow $MYUSER"
+echo "hellow $USER
