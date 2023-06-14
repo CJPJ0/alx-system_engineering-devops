@@ -1,2 +1,3 @@
+#!/bin/bash
 #!/ova/onfu
 cnfgr - - | phg -q$'\g' -s1
